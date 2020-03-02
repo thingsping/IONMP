@@ -13,9 +13,10 @@ Initial funding and contribution were done by Qantom Software Pvt. Ltd.
 RELEASED TO THE PUBLIC DOMAIN AS AN OPEN STANDARD with the following conditions: 
 
 This specification and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, provided that 
-      a) The above copyright notice and this paragraph are included on all such copies and derivative works.  However, this specification itself may not be modified in any way, such as by removing the copyright notice or references to Qantom Software Pvt. Ltd or other organizations, involved in this excercise. 
 
-      b) Any modifications made to the protocol specification must be submitted back to Qantom software so that it might be incorporated by Qantom back to the protocol, if appropriate.The reason why Qantom has made this protocol as an open protocol is to ensure that IOT devices are more interoperable and to follow a standard open protocol. We expect a reciprocal from all entities who use this protocol and wish to modify / adapt this protocol to suit their needs. 
+   a) The above copyright notice and this paragraph are included on all such copies and derivative works.  However, this specification itself may not be modified in any way, such as by removing the copyright notice or references to Qantom Software Pvt. Ltd or other organizations, involved in this excercise. 
+
+   b) Any modifications made to the protocol specification must be submitted back to Qantom software so that it might be incorporated by Qantom back to the protocol, if appropriate.The reason why Qantom has made this protocol as an open protocol is to ensure that IOT devices are more interoperable and to follow a standard open protocol. We expect a reciprocal from all entities who use this protocol and wish to modify / adapt this protocol to suit their needs. 
 
 The limited permissions granted above are perpetual and will not be revoked by Qantom Software or its successors or assigns.
 
