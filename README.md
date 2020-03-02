@@ -6,3 +6,5 @@ In the current scenario, for IOT, different flavours of existing protocols like 
 Entities of the IOT world have to continously communicate various types of data. The data either may be readings from sensors or may be instructions to activate output devices. In this document, the entities which are end-points are referred to as IONs – Input or Output Node. 
 
 There are numerous internet protocols that govern the communication between various entities. IONMP works in concert with these protocols by using the payload part for the messaging. Certain protocols like MQTT use a part of the payload for its own messaging. In such cases, the remaining part of the payload will be the IONMP payload. IONMP enables the creation of an infrastructure of network hosts (called IOT gateways servers) to which IONs can send registrations and messages.  
+
+This protocol is an open standards protocol. Initial contribution to this protocol was funded and created by Qantom Software Private Limited. 
