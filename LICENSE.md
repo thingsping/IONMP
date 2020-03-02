@@ -3,9 +3,9 @@ The protocol has been written to facilitate free and open interoperability and i
 Put in simple terms, the terms of using this protocol standards are: 
       You may use this protocol for any reason – commercial or non-commercial. You are allowed to modify the protocol to suit the needs of your implementation. In case you choose to modify the protocol, you MUST submit the changes back to us so that we can incorporate these changes back to the protocol. After all, we wrote this protocol to ensure that IOT devices interoperate from any vendor can interoperate with devices from other vendors!
 
-================================
-COPYRIGHT SECTION
-===============================
+
+__COPYRIGHT SECTION__ :
+
 
 Copyright (C) Qantom Software Pvt. Ltd. (2019-2020).  All Rights Reserved. 
 
